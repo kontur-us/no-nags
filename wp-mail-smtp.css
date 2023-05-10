@@ -1,0 +1,24 @@
+/*WP Mail SMTP*/
+/*link on admin menu*/
+li.wp-mail-smtp-sidebar-upgrade-pro,
+#toplevel_page_wp-mail-smtp > ul > li:nth-child(4),
+#toplevel_page_wp-mail-smtp > ul > li:nth-child(3),
+/*tab tools export*/
+#wp-mail-smtp > div > div.wp-mail-smtp-page-title > a:nth-child(2),
+/*tab settings logs*/
+#wp-mail-smtp > div > div.wp-mail-smtp-page-title > a:nth-child(3),
+/*tab settings alerts*/
+#wp-mail-smtp > div > div.wp-mail-smtp-page-title > a:nth-child(4),
+/*tab settings connections*/
+#wp-mail-smtp > div > div.wp-mail-smtp-page-title > a:nth-child(5),
+/*tab settings routing*/
+#wp-mail-smtp > div > div.wp-mail-smtp-page-title > a:nth-child(6),
+/*settings license key*/
+#wp-mail-smtp-setting-row-license_key, #wp-mail-smtp-setting-row-license-heading, 
+/*settings smtp*/
+#wp-mail-smtp > div > div.wp-mail-smtp-page-content > form > div:nth-child(13),
+/*notice nags*/
+#wp-mail-smtp-notice-bar,
+/*Ad blocks*/
+.wp-mail-smtp-pro-banner, #wp-mail-smtp-pro-banner, .wp-mail-smtp-product-education__heading, .wp-mail-smtp-product-education__description
+{display:none!important;}
